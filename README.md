@@ -4,6 +4,7 @@ gradle init --type java-application
 
 
 After writing the code
+
 2)gradle build
 
 3)gradle run
